@@ -12,8 +12,10 @@ Cada documento legal mantiene su propia versión, indicada en la cabecera del ar
 
 ### Política de Privacidad — v1.0 (en redacción)
 
-- Borrador inicial — secciones 1, 2 y 3 redactadas
-- Pendiente: secciones 4 a 17
+- Borrador completo — 17 secciones redactadas
+- Pendiente: revisión de las 8 validaciones abiertas (hosting backend, DPAs con terceros, URLs de policies de terceros, base legal "interés legítimo", período de gracia para eliminación, retención de logs, encriptación en reposo, algoritmo de hash de contraseñas)
+- Pendiente: implementación de la funcionalidad "Eliminar cuenta in-app" (bloqueante de Play Store — ver tarea TickTick "Implementar eliminación de cuenta in-app")
+- Pendiente: publicación oficial como v1.0 (no draft) cuando todas las validaciones e implementaciones estén resueltas
 
 ---
 
