@@ -4,433 +4,410 @@ title: Política de Privacidad — Qipo
 
 # Política de Privacidad de Qipo
 
-> ⚠️ **Documento en construcción — DRAFT.**
->
-> Esta política aún no está vigente. La versión final será publicada antes del lanzamiento de Qipo en Google Play Store. No representa compromiso legal hasta su publicación oficial como versión 1.0.
+> Documento en construcción. La presente Política se encuentra en proceso de revisión y no se encuentra vigente. La versión definitiva será publicada con anterioridad al lanzamiento oficial de la Aplicación en Google Play Store.
 
-**Versión:** 1.0-draft  
-**Fecha de redacción:** 3 de mayo de 2026  
-**Vigencia:** pendiente de publicación oficial
+**Versión:** 1.0-borrador
+**Fecha de redacción:** 3 de mayo de 2026
+**Vigencia:** pendiente de publicación oficial.
 
 ---
 
-## 1. Introducción
+## 1. Disposiciones generales
 
-### 1.1 Quiénes somos
+### 1.1. Identificación del Responsable del Tratamiento
 
-Qipo es una aplicación móvil de finanzas personales pensada para ayudarte a registrar y entender tus gastos en menos de 10 segundos. La desarrolla y opera **Angel Josue Loayza Huarachi**, persona natural domiciliada en Perú ("Qipo", "nosotros", "nuestro").
+El Responsable del Tratamiento de los Datos Personales recolectados a través de la aplicación móvil Qipo (en adelante, "la Aplicación") es Angel Josue Loayza Huarachi, persona natural domiciliada en la República del Perú (en adelante, "el Responsable").
 
-Esta política aplica a la aplicación móvil Qipo distribuida a través de Google Play Store, y a los servicios de backend que dan soporte al funcionamiento de la app.
+### 1.2. Objeto y ámbito de aplicación
 
-### 1.2 Qué cubre esta política
+La presente Política de Privacidad (en adelante, "la Política") tiene por objeto informar al Titular de los Datos Personales sobre el tratamiento que el Responsable realiza de la información proporcionada a través de la Aplicación, así como sobre los derechos que le asisten conforme a la Ley N.° 29733 — Ley de Protección de Datos Personales, su Reglamento aprobado mediante Decreto Supremo N.° 003-2013-JUS y demás normativa concordante.
 
-Esta política te explica:
+La Política resulta aplicable a la Aplicación distribuida a través de Google Play Store, así como a la infraestructura de backend que soporta su funcionamiento.
 
-- Qué datos personales recolectamos y por qué.
-- Cómo los usamos.
-- Con quién los compartimos.
-- Qué derechos tenés sobre tus datos y cómo ejercerlos.
-- Cómo nos podés contactar.
+### 1.3. Aceptación
 
-Cumple con la **Ley N.º 29733 — Ley de Protección de Datos Personales** del Perú, su reglamento aprobado por D.S. N.º 003-2013-JUS, y normas conexas.
-
-### 1.3 Aceptación
-
-Al crear una cuenta en Qipo o usar la aplicación, aceptás esta Política de Privacidad. Si no estás de acuerdo, no podemos brindarte el servicio. Podés dejar de usarla en cualquier momento eliminando tu cuenta desde la app (ver [sección 9](#9-eliminación-de-tu-cuenta)).
+La creación de una Cuenta en la Aplicación o el uso de cualquiera de sus funcionalidades implica el conocimiento y la aceptación expresa de la presente Política. En caso de no estar conforme con sus términos, el Usuario deberá abstenerse de utilizar la Aplicación o, en su defecto, proceder a la eliminación de su Cuenta conforme al procedimiento previsto en la Cláusula 9 de la presente Política.
 
 ---
 
 ## 2. Definiciones
 
-Para evitar ambigüedad, los siguientes términos en mayúscula tienen el significado indicado en cualquier parte de esta política:
+A efectos de la interpretación de la presente Política, los términos consignados en mayúscula tendrán el significado que se les atribuye a continuación, sea que aparezcan en singular o plural.
 
-- **Aplicación** o **App**: la aplicación móvil Qipo distribuida a través de Google Play Store y, eventualmente, otras tiendas oficiales.
-- **Usuario** o **vos**: persona natural mayor de 18 años que crea una Cuenta y utiliza la Aplicación.
-- **Cuenta**: registro asociado a un email único que te permite acceder a la App y a tus datos.
-- **Datos Personales**: cualquier información que te identifica o te hace identificable, según el artículo 2.4 de la Ley 29733.
-- **Tratamiento**: cualquier operación o procedimiento técnico aplicado a Datos Personales (recolección, registro, almacenamiento, modificación, consulta, uso, transmisión, eliminación, etc.).
-- **Encargado del Tratamiento**: persona u organización que trata Datos Personales por encargo nuestro (por ejemplo, un proveedor de infraestructura o un servicio de inteligencia artificial).
-- **APDP**: Autoridad Nacional de Protección de Datos Personales del Perú, dependiente del Ministerio de Justicia y Derechos Humanos, organismo encargado de velar por el cumplimiento de la Ley 29733.
+- **Aplicación:** la aplicación móvil denominada Qipo, distribuida a través de Google Play Store y, eventualmente, otras tiendas oficiales de aplicaciones.
+- **APDP:** la Autoridad Nacional de Protección de Datos Personales del Perú, dependiente del Ministerio de Justicia y Derechos Humanos.
+- **Cuenta:** el registro asociado a una dirección de correo electrónico única, que permite al Usuario acceder a la Aplicación y a sus Datos Personales.
+- **Datos Personales:** toda información sobre una persona natural que la identifica o la hace identificable, conforme al artículo 2.4 de la Ley.
+- **Encargado del Tratamiento:** persona natural o jurídica que realiza el tratamiento de Datos Personales por cuenta del Responsable.
+- **Ley:** la Ley N.° 29733 — Ley de Protección de Datos Personales y su Reglamento.
+- **Política:** la presente Política de Privacidad.
+- **Reglamento:** el Reglamento de la Ley N.° 29733, aprobado mediante Decreto Supremo N.° 003-2013-JUS.
+- **Responsable:** Angel Josue Loayza Huarachi, persona natural domiciliada en la República del Perú, en su calidad de responsable del tratamiento de los Datos Personales recolectados a través de la Aplicación.
+- **Titular:** la persona natural propietaria de los Datos Personales objeto de tratamiento.
+- **Tratamiento:** cualquier operación o procedimiento técnico, automatizado o no, que permita la recopilación, registro, organización, almacenamiento, conservación, elaboración, modificación, extracción, consulta, utilización, bloqueo, supresión, comunicación por transferencia o por difusión o cualquier otra forma de procesamiento de los Datos Personales.
+- **Usuario:** persona natural mayor de dieciocho (18) años que crea una Cuenta y utiliza la Aplicación.
 
 ---
 
-## 3. Datos que recolectamos
+## 3. Datos Personales objeto de tratamiento
 
-Solo recolectamos los datos estrictamente necesarios para que Qipo funcione. Te los detallamos por origen.
+El Responsable realiza el tratamiento de las siguientes categorías de Datos Personales del Usuario.
 
-### 3.1 Datos que vos nos das directamente
+### 3.1. Datos proporcionados directamente por el Usuario
 
-| Categoría | Datos específicos | Cuándo |
+| Categoría | Datos específicos |
+|---|---|
+| Datos de identificación y autenticación | Dirección de correo electrónico, nombre y contraseña, esta última almacenada exclusivamente bajo algoritmo de hashing criptográfico (bcrypt). |
+| Datos de configuración y preferencias | Zona horaria del Usuario y configuración de notificaciones. |
+| Datos financieros personales | Operaciones de ingreso y egreso registradas por el Usuario (monto, descripción, fecha y categoría), presupuestos definidos, registros de deudas y préstamos personales y etiquetas asignadas a los medios de pago empleados. |
+| Datos derivados de comandos por voz | Texto resultante del proceso de reconocimiento de voz ejecutado en el dispositivo del Usuario. |
+
+El Responsable no recolecta números de tarjetas de crédito o débito, datos de cuentas bancarias ni accede a los productos financieros del Usuario. La gestión de los pagos correspondientes a la modalidad de suscripción de la Aplicación, cuando esta se encuentre disponible, será realizada exclusivamente por la pasarela de pago de Google Play Billing, sin intervención ni acceso del Responsable a dicha información.
+
+### 3.2. Datos generados de manera automática
+
+| Categoría | Datos específicos |
+|---|---|
+| Identificadores técnicos | Token único de notificaciones push asignado por Firebase Cloud Messaging a la instalación de la Aplicación en el dispositivo del Usuario. |
+| Registros técnicos | Registros de errores, métricas de rendimiento e identificadores de sesión generados durante el uso de la Aplicación. |
+
+---
+
+## 4. Finalidades y base legal del tratamiento
+
+El tratamiento de los Datos Personales del Usuario se realiza para las finalidades específicas que se detallan a continuación, conforme a las bases legales previstas en el artículo 5 de la Ley.
+
+| Finalidad | Datos tratados | Base legal |
 |---|---|---|
-| **Datos de cuenta** | Email, nombre, contraseña (siempre almacenada con hash criptográfico, nunca en texto plano) | Al registrarte |
-| **Preferencias** | Zona horaria, si querés recibir notificaciones push | Durante el uso |
-| **Datos financieros personales** | Transacciones (monto, descripción opcional, fecha), categorías que creás, presupuestos que definís, deudas y préstamos personales que registrás, etiquetas de medios de pago (ej: "Tarjeta BCP", "Efectivo") | Cada vez que usás la app |
-| **Texto de comandos por voz** | El texto resultante después de que tu dispositivo transcribe lo que dijiste | Cuando usás la función de registro por voz |
+| Creación y mantenimiento de la Cuenta, autenticación del Usuario y recuperación de credenciales. | Datos de identificación y autenticación. | Ejecución de la relación contractual. |
+| Registro y visualización de la información financiera del Usuario, incluyendo operaciones, presupuestos, deudas y categorías. | Datos financieros personales. | Ejecución de la relación contractual. |
+| Procesamiento de comandos por voz para la generación de sugerencias de operaciones, las cuales requerirán confirmación expresa del Usuario. | Texto resultante de la transcripción y nombres de las categorías y medios de pago del Usuario. | Consentimiento expreso, otorgado al activar la funcionalidad de comandos por voz. |
+| Envío de notificaciones relativas a presupuestos, alertas y avisos de la Aplicación. | Token de notificaciones push y contenido del aviso. | Consentimiento revocable mediante la configuración correspondiente de la Aplicación. |
+| Prevención de fraude y de accesos no autorizados a la Cuenta. | Dirección de correo electrónico, dirección IP y registros de autenticación. | Interés legítimo del Responsable. |
+| Detección y corrección de errores y monitoreo de estabilidad y rendimiento. | Registros técnicos e identificadores de sesión. | Interés legítimo del Responsable. |
+| Cumplimiento de obligaciones legales y atención de requerimientos formulados por autoridades competentes. | Los Datos Personales requeridos en cada caso. | Cumplimiento de obligación legal. |
+| Procesamiento del pago correspondiente a la suscripción Pro y mantenimiento del estado de la misma, cuando dicha modalidad se encuentre disponible. | Identificador de compra de Google Play y estado de la suscripción. | Ejecución de la relación contractual. |
 
-> ⚠️ **Sobre datos financieros**: Qipo NO recolecta números de tarjeta de crédito, datos bancarios, ni accede a tus cuentas reales. Cuando registrás un medio de pago, solo guardamos la **etiqueta** que vos le ponés (ej: "Tarjeta BCP"), no los datos sensibles del instrumento. Si en el futuro suscribís el Plan Pro, los datos de pago se procesan exclusivamente por Google Play Billing — Qipo nunca los ve ni los guarda.
-
-### 3.2 Datos que se generan automáticamente
-
-| Categoría | Datos específicos | Para qué |
-|---|---|---|
-| **Token de notificaciones push** | Identificador único asignado por Firebase Cloud Messaging a tu instalación de la app | Enviarte notificaciones de presupuestos y alertas |
-| **Logs técnicos** | Errores de la app, métricas de performance, identificadores de sesión | Detectar y corregir errores, monitorear estabilidad |
-
-### 3.3 Lo que NO recolectamos
-
-Para que quede explícito, Qipo **no recolecta**:
-
-- ❌ **Audio de tu voz** — la transcripción de voz a texto sucede en tu propio dispositivo (usando el motor de reconocimiento del sistema operativo). El audio nunca sale de tu teléfono.
-- ❌ **Ubicación GPS**, ni precisa ni aproximada.
-- ❌ Tus **contactos**, **fotos**, **mensajes de SMS**, **mensajería instantánea** ni **calendario**.
-- ❌ Tu **historial de navegación web**.
-- ❌ La **lista de aplicaciones instaladas** en tu dispositivo.
-- ❌ Información de **salud, política, religión, orientación sexual, raza** ni cualquier otra categoría de datos sensibles según el artículo 2.5 de la Ley 29733.
-- ❌ **Números de tarjeta de crédito o débito, ni datos bancarios reales** (cuando uses el Plan Pro, esos datos los maneja Google Play Billing directamente, fuera de nuestro alcance).
+La revocación del consentimiento por parte del Usuario respecto de cualquiera de las finalidades cuya base legal sea el consentimiento determinará la cesación inmediata del tratamiento para tal finalidad, sin que ello afecte la prestación del servicio en sus demás aspectos.
 
 ---
 
-## 4. Cómo usamos tus datos
+## 5. Tratamiento mediante inteligencia artificial
 
-Cada uso que le damos a tus datos tiene una **finalidad específica** y una **base legal** que lo justifica, conforme al artículo 5 de la Ley 29733.
+### 5.1. Descripción del tratamiento
 
-| Finalidad | Datos usados | Base legal |
-|---|---|---|
-| Crear y mantener tu cuenta, autenticarte, recuperarla si olvidás la contraseña | Email, hash de contraseña, nombre | Ejecución de la relación contractual |
-| Registrarte y mostrarte tus transacciones, presupuestos, deudas, categorías y medios de pago | Datos financieros personales | Ejecución de la relación contractual |
-| Procesar tus comandos por voz para generarte una sugerencia de transacción editable | Texto resultante de la transcripción + lista de tus categorías y medios de pago | Consentimiento explícito (al activar la función de voz por primera vez) |
-| Enviarte notificaciones de presupuestos, alertas y avisos de la app | Token FCM, contenido del aviso | Consentimiento revocable desde Configuración → Notificaciones |
-| Prevenir fraude, abusos y accesos no autorizados a tu cuenta | Email, dirección IP, logs de autenticación | Interés legítimo |
-| Detectar y corregir errores, monitorear estabilidad y performance de la app | Logs técnicos, identificadores de sesión | Interés legítimo |
-| Cumplir obligaciones legales y responder requerimientos de autoridades competentes | Cualquier dato requerido por la autoridad | Cumplimiento de obligación legal |
-| Procesar pagos del Plan Pro y mantener el estado de tu suscripción *(activo cuando se lance el Plan Pro)* | Identificador de compra de Google Play, estado de suscripción | Ejecución de la relación contractual |
+La Aplicación incorpora una funcionalidad opcional consistente en la generación de sugerencias de operaciones a partir del texto resultante de un comando dictado por el Usuario. Dicho tratamiento se desarrolla conforme al siguiente procedimiento:
 
-**Si revocás tu consentimiento** para cualquier finalidad basada en consentimiento (voz o notificaciones), esa función deja de operar para tu cuenta de inmediato, sin afectar el resto del servicio.
+a) El Usuario emite un comando verbal en la Aplicación.
 
----
+b) El motor de reconocimiento de voz del sistema operativo del dispositivo del Usuario transforma el comando en texto. Esta transformación se ejecuta íntegramente en el dispositivo, sin que el contenido del audio sea transmitido al Responsable.
 
-## 5. Procesamiento por inteligencia artificial
+c) El Responsable transmite el texto resultante, conjuntamente con la lista de categorías y medios de pago del Usuario, a un proveedor especializado en procesamiento mediante inteligencia artificial, identificado en la Cláusula 6 de la presente Política.
 
-Qipo usa inteligencia artificial únicamente para **una función opcional**: convertir un comando hablado en una sugerencia de transacción estructurada.
+d) El proveedor devuelve una sugerencia estructurada que comprende monto, descripción, categoría y medio de pago.
 
-### 5.1 Cómo funciona
+e) La sugerencia es presentada al Usuario, quien podrá confirmarla, modificarla o descartarla.
 
-1. Vos hablás en la app (ejemplo: *"gasté 25 soles en almuerzo con tarjeta BCP"*).
-2. **Tu dispositivo** transcribe el audio a texto usando el motor de reconocimiento del sistema operativo (Android). El audio nunca sale de tu teléfono.
-3. Qipo envía a nuestro backend ese **texto** junto con la lista de tus categorías y medios de pago disponibles.
-4. Nuestro backend reenvía el texto y las opciones disponibles a un proveedor de inteligencia artificial (ver [sección 6.1](#61-proveedores-de-servicio-encargados-del-tratamiento)) que devuelve una transacción estructurada (monto, descripción, categoría sugerida, medio de pago sugerido).
-5. La sugerencia se te muestra en pantalla **siempre editable**. Vos confirmás, modificás o descartás.
+### 5.2. Información transmitida al proveedor
 
-### 5.2 Qué se manda al proveedor de IA
+El Responsable transmite al proveedor de inteligencia artificial únicamente el texto del comando y los nombres de las categorías y medios de pago del Usuario. No se transmiten al proveedor la dirección de correo electrónico, el nombre, la contraseña ni cualesquiera otros datos identificadores del Usuario, así como tampoco las operaciones históricas o el audio original.
 
-- ✅ El **texto transcrito** de tu comando.
-- ✅ Los **nombres** de tus categorías y medios de pago (para que pueda sugerir uno apropiado).
-- ❌ NUNCA tu email, nombre, contraseña ni datos identificadores.
-- ❌ NUNCA tus transacciones históricas ni montos previos.
-- ❌ NUNCA el audio original.
+### 5.3. Decisiones automatizadas
 
-### 5.3 Decisiones automatizadas
+Conforme al artículo 22 del Reglamento, se informa al Titular que el tratamiento descrito en la presente Cláusula no produce efectos legales ni significativos sobre el Titular en ausencia de su intervención. La sugerencia generada mediante inteligencia artificial requiere la confirmación expresa del Usuario para ser registrada como operación.
 
-Conforme al artículo 22 del Reglamento de la Ley 29733 (D.S. N.º 003-2013-JUS), te informamos que:
+El Usuario podrá abstenerse de utilizar la funcionalidad de comandos por voz, en cuyo caso ningún Dato Personal del Titular será objeto de tratamiento mediante inteligencia artificial.
 
-- El sistema **NO toma ninguna decisión que produzca efectos legales o significativos sobre vos** sin tu intervención.
-- La sugerencia generada por inteligencia artificial es **siempre revisada y aceptada por vos** antes de guardarse como transacción.
-- Tenés derecho a **no usar esta función**: basta con registrar tus transacciones manualmente. Si nunca activás el comando por voz, ningún dato tuyo es procesado por inteligencia artificial.
+### 5.4. Conservación por parte del proveedor
 
-### 5.4 Retención por el proveedor de IA
-
-El proveedor de inteligencia artificial puede retener temporalmente las consultas según su propia política de privacidad. Recomendamos revisar la política del proveedor listado en la [sección 6.1](#61-proveedores-de-servicio-encargados-del-tratamiento). Qipo no controla esa retención.
+El proveedor de inteligencia artificial podrá conservar las consultas conforme a su propia política de privacidad, cuya revisión se recomienda al Titular. El Responsable no controla las operaciones de conservación realizadas por dicho proveedor.
 
 ---
 
-## 6. Con quién compartimos tus datos
+## 6. Encargados del Tratamiento y comunicaciones a terceros
 
-**No vendemos tus datos.** No los cedemos a terceros con fines comerciales. Solo los compartimos con los proveedores estrictamente necesarios para que Qipo funcione, y solo en los escenarios descritos a continuación.
+### 6.1. Encargados del Tratamiento
 
-### 6.1 Proveedores de servicio (Encargados del Tratamiento)
+El Responsable comparte los Datos Personales del Usuario únicamente con los Encargados del Tratamiento estrictamente necesarios para la prestación del servicio. Cada Encargado realiza el tratamiento por cuenta del Responsable, conforme a sus instrucciones y bajo acuerdos contractuales que le obligan a estándares de seguridad equivalentes a los exigidos por la Ley.
 
-Cada uno trata tus datos **por encargo nuestro**, según nuestras instrucciones y bajo acuerdos contractuales que les obligan a estándares equivalentes a los nuestros.
-
-| Proveedor | País / Sede | Datos compartidos | Finalidad |
+| Encargado | Jurisdicción de la sede o de la infraestructura | Datos comunicados | Finalidad |
 |---|---|---|---|
-| **Contabo GmbH** | Alemania (sede) — infraestructura en Estados Unidos (región US-East) | Todos los datos almacenados por Qipo (cuenta, datos financieros, logs) | Hosting del backend y la base de datos |
-| **Groq Inc.** | Estados Unidos | Texto de tu comando por voz + nombres de tus categorías y medios de pago | Generar sugerencia de transacción estructurada (función de voz) |
-| **Google LLC — Firebase Cloud Messaging** | Estados Unidos | Token de notificaciones push, contenido del aviso a entregar | Entregar notificaciones a tu dispositivo |
-| **Google LLC — Google Play Billing** *(activo cuando suscribas Plan Pro)* | Estados Unidos | Identificador anónimo de compra | Procesar pago de suscripción |
-| **RevenueCat Inc.** *(activo cuando suscribas Plan Pro)* | Estados Unidos | Identificador anónimo de suscripción, estado de la suscripción | Gestionar el ciclo de vida de la suscripción cross-platform |
+| Contabo GmbH | República Federal de Alemania (sede). Estados Unidos de América, región US-East (infraestructura). | La totalidad de los Datos Personales tratados por la Aplicación. | Prestación de servicios de hosting del backend y de la base de datos. |
+| Groq, Inc. | Estados Unidos de América. | Texto resultante del comando por voz y nombres de las categorías y medios de pago del Usuario. | Generación de sugerencias estructuradas de operaciones. |
+| Google LLC — Firebase Cloud Messaging | Estados Unidos de América. | Token de notificaciones push y contenido del aviso a entregar. | Entrega de notificaciones al dispositivo del Usuario. |
+| Google LLC — Google Play Billing (cuando se encuentre disponible la modalidad de suscripción Pro) | Estados Unidos de América. | Identificador anónimo de compra. | Procesamiento del pago correspondiente a la suscripción. |
+| RevenueCat, Inc. (cuando se encuentre disponible la modalidad de suscripción Pro) | Estados Unidos de América. | Identificador anónimo de suscripción y estado de la misma. | Gestión del ciclo de vida de la suscripción. |
 
-Podés consultar las políticas de privacidad de cada proveedor en sus respectivos sitios web ([Contabo](https://contabo.com/en/legal/privacy-policy/), [Groq](https://groq.com/privacy-policy/), [Google](https://policies.google.com/privacy), [RevenueCat](https://www.revenuecat.com/privacy/)).
+Las políticas de privacidad de los referidos Encargados se encuentran disponibles en sus respectivos sitios web: [Contabo](https://contabo.com/en/legal/privacy-policy/), [Groq](https://groq.com/privacy-policy/), [Google](https://policies.google.com/privacy) y [RevenueCat](https://www.revenuecat.com/privacy/).
 
-Si en el futuro sumamos un nuevo proveedor que reciba tus datos, **actualizamos esta política antes de activarlo** y bumpeamos la versión del documento.
+La incorporación de cualquier nuevo Encargado del Tratamiento será comunicada al Titular mediante la actualización de la presente Política, con anterioridad al inicio del tratamiento por parte de dicho Encargado.
 
-### 6.2 Autoridades competentes
+### 6.2. Comunicación a autoridades competentes
 
-Compartimos datos con autoridades **únicamente** cuando recibimos un **requerimiento legal válido** (orden judicial, fiscalía, Autoridad Nacional de Protección de Datos Personales, SUNAT en el marco de sus competencias). En esos casos:
+El Responsable comunicará Datos Personales a autoridades competentes únicamente en virtud de un requerimiento legal válidamente formulado. En tales casos, se comunicarán únicamente los Datos Personales estrictamente solicitados y, en la medida en que ello resulte legalmente posible, se notificará al Titular respecto de la comunicación efectuada.
 
-- Solo entregamos los datos estrictamente solicitados.
-- Te notificamos cuando legalmente podemos hacerlo.
+### 6.3. Cesión por transferencia de la operación
 
-### 6.3 Transferencia de la operación
+En caso de que la operación de la Aplicación sea transferida, fusionada o adquirida por un tercero, los Datos Personales del Usuario serán cedidos al nuevo titular bajo las mismas condiciones establecidas en la presente Política. El Responsable comunicará oportunamente al Titular tal circunstancia, otorgándole la posibilidad de eliminar su Cuenta con anterioridad a la efectividad del cambio.
 
-Si en el futuro Qipo es vendido, fusionado o transferido a otra entidad, tus datos pasan al nuevo titular bajo las **mismas condiciones** de esta política. Si el cambio implica modificaciones sustanciales, te notificamos con anticipación y te damos la opción de eliminar tu cuenta antes de que el cambio sea efectivo.
+### 6.4. Improcedencia de la cesión a terceros con fines comerciales
 
----
-
-## 7. Transferencias internacionales de datos
-
-Tus Datos Personales se almacenan y procesan **fuera del territorio peruano**. Específicamente:
-
-- El **almacenamiento principal** ocurre en servidores ubicados en **Estados Unidos** (región US-East), operados por nuestro proveedor de hosting Contabo GmbH (sede en Alemania).
-- Los demás proveedores listados en la [sección 6.1](#61-proveedores-de-servicio-encargados-del-tratamiento) (Groq, Google, RevenueCat) también operan desde **Estados Unidos**.
-
-Esto implica una **transferencia internacional de Datos Personales** desde Perú hacia Estados Unidos y, en el caso de Contabo, una relación contractual con un encargado domiciliado en Alemania (país que sí cuenta con nivel adecuado de protección reconocido por la Unión Europea).
-
-Conforme al artículo 15 de la Ley 29733 y al Capítulo III del Título II de su Reglamento:
-
-- Cada transferencia se realiza en el marco de un **Acuerdo de Procesamiento de Datos** firmado con el proveedor, que establece garantías equivalentes a las exigidas por la Ley 29733.
-- Los proveedores se comprometen a tratar tus datos **únicamente** para los fines indicados en esta política y bajo nuestras instrucciones.
-- Tenés derecho a solicitar copia de las garantías aplicadas escribiéndonos a [hola.qipo.app@gmail.com](mailto:hola.qipo.app@gmail.com).
-
-Si la Autoridad Nacional de Protección de Datos Personales determina en el futuro que algún país destinatario deja de ofrecer garantías adecuadas, te lo notificaremos y evaluaremos migrar el servicio o solicitar tu nuevo consentimiento.
+El Responsable no cede los Datos Personales del Usuario a terceros con fines comerciales, publicitarios o de cualquier otra naturaleza distinta a las expresamente previstas en la presente Política.
 
 ---
 
-## 8. Tus derechos sobre tus datos
+## 7. Transferencia internacional de Datos Personales
 
-Como titular de los Datos Personales que Qipo trata, tenés los siguientes derechos garantizados por los artículos 18 a 24 de la Ley 29733, conocidos como **derechos ARCO+P**.
+Los Datos Personales del Usuario son almacenados y tratados fuera del territorio peruano. En particular:
 
-### 8.1 Derecho de acceso
+a) El almacenamiento principal se realiza en servidores ubicados en los Estados Unidos de América, región US-East, operados por el Encargado Contabo GmbH, sociedad domiciliada en la República Federal de Alemania.
 
-Podés pedirnos en cualquier momento un **reporte completo** de los datos que tenemos sobre vos, su origen, las finalidades para las que los tratamos, y los terceros con quienes los compartimos.
+b) Los demás Encargados identificados en la Cláusula 6.1 operan asimismo desde los Estados Unidos de América.
 
-**Plazo de respuesta:** hasta 20 días hábiles desde tu solicitud.
+Conforme al artículo 15 de la Ley y al Capítulo III del Título II del Reglamento, las transferencias internacionales se realizan en el marco de Acuerdos de Procesamiento de Datos suscritos con cada uno de los Encargados, los cuales establecen garantías equivalentes a las exigidas por la legislación peruana. Los Encargados se encuentran obligados al tratamiento de los Datos Personales únicamente para las finalidades previstas en la presente Política y bajo las instrucciones del Responsable.
 
-### 8.2 Derecho de rectificación
+El Titular podrá solicitar copia de las garantías aplicadas mediante comunicación escrita dirigida a la dirección de correo electrónico consignada en la Cláusula 15 de la presente Política.
 
-Si alguno de tus datos es **incorrecto, incompleto o está desactualizado**, podés pedir su corrección. La mayoría de tus datos los podés rectificar vos directamente desde la app (nombre, email, preferencias, transacciones, etc.).
-
-**Plazo de respuesta:** hasta 10 días hábiles desde tu solicitud.
-
-### 8.3 Derecho de cancelación o eliminación
-
-Podés pedir que **borremos tus datos** cuando:
-
-- Ya no son necesarios para las finalidades originales.
-- Retirás tu consentimiento (cuando esa era la base legal).
-- Considerás que están siendo tratados de manera contraria a la ley.
-
-La forma más directa de ejercerlo es **eliminar tu cuenta** desde la app (ver [sección 9](#9-eliminación-de-tu-cuenta)).
-
-**Plazo de respuesta:** hasta 10 días hábiles desde tu solicitud.
-
-### 8.4 Derecho de oposición
-
-Podés **oponerte** al tratamiento de tus datos para finalidades específicas, incluso si la base legal lo permitiría. Por ejemplo, podés oponerte a recibir notificaciones push (desactivándolas desde Configuración → Notificaciones).
-
-**Plazo de respuesta:** hasta 10 días hábiles desde tu solicitud.
-
-### 8.5 Derecho de portabilidad
-
-Podés solicitar una **copia de tus datos en un formato estructurado y legible por máquina** (ej: JSON o CSV) para llevarlos a otra app o conservarlos vos mismo. Aplica a los datos que vos generaste (transacciones, categorías, presupuestos, deudas).
-
-**Plazo de respuesta:** hasta 20 días hábiles desde tu solicitud.
-
-### 8.6 Derecho a revocar tu consentimiento
-
-Cuando un tratamiento se basa en tu consentimiento (función de voz, notificaciones), podés **revocarlo en cualquier momento** sin necesidad de justificarlo. La revocación no afecta la legalidad del tratamiento previo a la revocación.
-
-### 8.7 Cómo ejercer estos derechos
-
-Tenés tres caminos:
-
-1. **Desde la app**: la mayoría de los derechos los podés ejercer directamente (rectificar tus datos, eliminar tu cuenta, desactivar notificaciones).
-2. **Por email**: enviá tu solicitud a [hola.qipo.app@gmail.com](mailto:hola.qipo.app@gmail.com) indicando el derecho que querés ejercer y adjuntando una **copia de tu DNI** o documento equivalente para verificar tu identidad.
-3. **Ante la APDP**: si considerás que no respondimos adecuadamente, podés presentar un reclamo ante la Autoridad Nacional de Protección de Datos Personales (ver [sección 14](#14-reclamos-ante-la-apdp)).
-
-No te cobramos por ejercer estos derechos. Si tu solicitud es manifiestamente infundada o repetitiva, podemos justificar denegarla, explicándote por qué.
+En la eventualidad de que la APDP determine que el país destinatario de los Datos Personales ha dejado de ofrecer garantías adecuadas de protección, el Responsable comunicará al Titular tal circunstancia y evaluará las medidas pertinentes, incluyendo la migración del servicio o la solicitud de un nuevo consentimiento al Titular.
 
 ---
 
-## 9. Eliminación de tu cuenta
+## 8. Derechos del Titular
 
-Podés eliminar tu cuenta de Qipo en cualquier momento, sin necesidad de contactarnos.
+El Titular es titular de los derechos reconocidos por los artículos 18 a 24 de la Ley, denominados conjuntamente derechos ARCO+P, conforme se detalla a continuación.
 
-### 9.1 Cómo hacerlo
+### 8.1. Derecho de acceso
 
-Desde la app:
+El Titular podrá solicitar al Responsable información respecto de los Datos Personales objeto de tratamiento, su origen, las finalidades para las cuales son tratados y los Encargados con quienes son compartidos. La solicitud será atendida en un plazo no mayor a veinte (20) días hábiles, contados desde su recepción.
 
-1. Andá a **Perfil** → **Configuración** → **Eliminar cuenta**.
-2. Te pediremos confirmar la acción escribiendo una palabra clave (para evitar borrados accidentales).
-3. Tu sesión se cierra y todos los tokens locales se borran.
+### 8.2. Derecho de rectificación
 
-### 9.2 Qué se borra y cuándo
+El Titular podrá solicitar la rectificación de los Datos Personales que resultaren inexactos, incompletos o desactualizados. La mayor parte de los Datos Personales podrán ser rectificados directamente por el Usuario desde la Aplicación. La solicitud que requiera intervención del Responsable será atendida en un plazo no mayor a diez (10) días hábiles.
 
-| Categoría | Cuándo se borra |
+### 8.3. Derecho de cancelación
+
+El Titular podrá solicitar la cancelación o supresión de sus Datos Personales cuando estos hubieren dejado de ser necesarios para las finalidades originalmente previstas, hubiere revocado su consentimiento o considerare que el tratamiento se realiza en contravención de la Ley. La cancelación podrá ejercerse mediante la eliminación de la Cuenta conforme al procedimiento descrito en la Cláusula 9 de la presente Política. La solicitud será atendida en un plazo no mayor a diez (10) días hábiles.
+
+### 8.4. Derecho de oposición
+
+El Titular podrá oponerse al tratamiento de sus Datos Personales para finalidades específicas, incluso en aquellos casos en que la base legal lo permitiera. La oposición al envío de notificaciones podrá ejercerse desde la configuración correspondiente de la Aplicación. La solicitud será atendida en un plazo no mayor a diez (10) días hábiles.
+
+### 8.5. Derecho de portabilidad
+
+El Titular podrá solicitar copia de sus Datos Personales en formato estructurado y legible por sistemas automatizados, a efectos de su portabilidad a otros servicios. El derecho recae sobre los Datos Personales generados por el propio Usuario, incluyendo operaciones, categorías, presupuestos y registros de deudas. La solicitud será atendida en un plazo no mayor a veinte (20) días hábiles.
+
+### 8.6. Revocación del consentimiento
+
+En aquellos casos en que el tratamiento se sustente en el consentimiento del Titular, este podrá revocarlo en cualquier momento, sin necesidad de motivación. La revocación no afectará la licitud del tratamiento realizado con anterioridad a la misma.
+
+### 8.7. Procedimiento para el ejercicio de los derechos
+
+Los derechos descritos en la presente Cláusula podrán ejercerse:
+
+a) Mediante las funcionalidades dispuestas en la Aplicación, en aquellos supuestos en que ello resultare técnicamente posible.
+
+b) Mediante solicitud escrita dirigida a la dirección de correo electrónico consignada en la Cláusula 15 de la presente Política, con indicación expresa del derecho que se ejerce y adjuntando copia del documento nacional de identidad o documento equivalente del Titular.
+
+c) Mediante reclamo presentado ante la APDP, cuando el Titular considere que su solicitud no ha sido adecuadamente atendida por el Responsable, conforme al procedimiento descrito en la Cláusula 14.
+
+El ejercicio de los derechos no se encuentra sujeto al pago de retribución alguna. El Responsable podrá denegar motivadamente las solicitudes manifiestamente infundadas o repetitivas.
+
+---
+
+## 9. Eliminación de la Cuenta
+
+El Usuario podrá eliminar su Cuenta en cualquier momento, sin necesidad de mediar comunicación previa con el Responsable.
+
+### 9.1. Procedimiento
+
+La eliminación de la Cuenta se realizará desde la Aplicación, accediendo a la sección "Perfil — Configuración — Eliminar cuenta". El procedimiento exige una confirmación expresa por parte del Usuario, a efectos de prevenir eliminaciones accidentales. Una vez confirmada la solicitud, la sesión del Usuario será cerrada y los identificadores locales serán eliminados.
+
+### 9.2. Plazos y categorías de Datos Personales
+
+| Categoría | Plazo de eliminación |
 |---|---|
-| Datos de cuenta (email, nombre, contraseña hasheada) | A los 30 días de la solicitud (período de gracia para revertir borrados accidentales) |
-| Transacciones, categorías, presupuestos, deudas, medios de pago | A los 30 días de la solicitud |
-| Token FCM de notificaciones | Inmediatamente |
-| Tokens de sesión (JWT, refresh tokens) | Inmediatamente al cerrar sesión |
-| Logs técnicos asociados a tu cuenta | Al expirar el período normal de retención de logs (ver [sección 10](#10-retención-de-datos)) |
+| Datos de identificación y autenticación | Treinta (30) días contados desde la fecha de la solicitud, otorgándose dicho plazo a efectos de permitir la reversión de eliminaciones accidentales. |
+| Datos financieros personales | Treinta (30) días contados desde la fecha de la solicitud. |
+| Token de notificaciones push | De manera inmediata. |
+| Tokens de sesión | De manera inmediata, mediante el cierre de sesión. |
+| Registros técnicos asociados a la Cuenta | Conforme al plazo general de conservación previsto en la Cláusula 10. |
 
-Durante los 30 días de gracia, podés reactivar tu cuenta escribiéndonos a [hola.qipo.app@gmail.com](mailto:hola.qipo.app@gmail.com). Pasados los 30 días, el borrado es **irreversible** y los datos no pueden recuperarse.
+Durante el período de gracia de treinta (30) días, el Usuario podrá solicitar la reversión de la eliminación mediante comunicación escrita dirigida a la dirección de correo electrónico consignada en la Cláusula 15. Vencido dicho plazo, la eliminación adquirirá carácter irreversible.
 
-### 9.3 Qué pasa si tenés Plan Pro activo
+### 9.3. Suscripción Pro vigente
 
-Si suscribís el Plan Pro y eliminás tu cuenta:
+En caso de que el Usuario tuviere una suscripción Pro vigente al momento de solicitar la eliminación de la Cuenta, se le advierte que dicha suscripción no resulta cancelada de manera automática, dado que su gestión es realizada de manera independiente por Google Play. Se recomienda al Usuario proceder, con anterioridad a la eliminación de la Cuenta, a la cancelación de la suscripción desde Google Play Store.
 
-- Tu suscripción **NO se cancela automáticamente** desde Qipo (Google Play gestiona las suscripciones de manera independiente).
-- Te recomendamos **cancelar la suscripción primero** desde Google Play Store → Suscripciones, y después eliminar la cuenta.
-- Si eliminás la cuenta sin cancelar, la suscripción seguirá renovándose pero sin servicio activo. Qipo no se hace responsable por cobros generados después de eliminar la cuenta sin cancelar la suscripción.
+El Responsable no asume responsabilidad por los cargos generados con posterioridad a la eliminación de la Cuenta cuando estos derivaren de una suscripción no cancelada por el Usuario.
 
-### 9.4 Datos que conservamos por requerimiento legal
+### 9.4. Conservación por imperativo legal
 
-Algunos datos podemos estar obligados a conservar por requerimientos tributarios, contables o legales (por ejemplo, registros de transacciones de pago si suscribiste el Plan Pro, conservados según normas tributarias peruanas). Estos datos se conservan **únicamente** por el plazo legal y **no se usan** para ninguna otra finalidad.
+Determinados Datos Personales podrán ser conservados por el Responsable, aun con posterioridad a la eliminación de la Cuenta, cuando ello resultare exigido por la normativa tributaria, contable o de cualquier otra naturaleza. En tales supuestos, los Datos Personales serán conservados únicamente por el plazo legal aplicable y no serán objeto de tratamiento para finalidad distinta.
 
 ---
 
-## 10. Retención de datos
+## 10. Conservación de los Datos Personales
 
-Conservamos tus Datos Personales solo el tiempo necesario para las finalidades para las que fueron recolectados, conforme al artículo 11 de la Ley 29733.
+Los Datos Personales serán conservados por el Responsable únicamente durante el plazo necesario para el cumplimiento de las finalidades para las que fueron recolectados, conforme al artículo 11 de la Ley.
 
-| Categoría de datos | Plazo de retención |
+| Categoría de Datos Personales | Plazo de conservación |
 |---|---|
-| Datos de cuenta y datos financieros personales | Mientras tu cuenta esté activa, más 30 días de gracia tras eliminación |
-| Token FCM de notificaciones push | Hasta que desactives notificaciones, elimines la app o eliminés tu cuenta |
-| Logs técnicos (errores, performance) | Conservados únicamente por el tiempo necesario para diagnóstico operativo, conforme a nuestra política operativa |
-| Logs de autenticación (login, cambios de contraseña) | Conservados únicamente por el tiempo necesario para auditoría de seguridad y prevención de fraude |
-| Identificadores de pago (Plan Pro) | Plazo legal aplicable según normativa tributaria peruana (típicamente hasta 5 años) |
-| Tokens de recuperación de contraseña (OTP) | Máximo 15 minutos desde su generación |
-| Tokens de sesión (refresh tokens) | Hasta su expiración natural o revocación por logout / cambio de contraseña |
+| Datos de identificación, autenticación y financieros del Usuario | Vigencia de la Cuenta, más treinta (30) días contados desde la solicitud de eliminación. |
+| Token de notificaciones push | Hasta la desactivación de notificaciones, la desinstalación de la Aplicación o la eliminación de la Cuenta. |
+| Registros técnicos | Conservados conforme a la política operativa del Responsable, durante el plazo necesario para diagnóstico y mantenimiento del servicio. |
+| Registros de autenticación | Conservados conforme a la política operativa del Responsable, durante el plazo necesario para auditoría de seguridad y prevención de fraude. |
+| Identificadores de pago derivados de la suscripción Pro | Plazo aplicable conforme a la normativa tributaria peruana, estimado en cinco (5) años. |
+| Tokens de recuperación de contraseña | Quince (15) minutos contados desde su generación. |
+| Tokens de sesión | Hasta su expiración natural o revocación derivada del cierre de sesión o del cambio de contraseña. |
 
-Pasados los plazos indicados, los datos se eliminan o se anonimizan de manera irreversible.
-
----
-
-## 11. Seguridad
-
-Aplicamos medidas técnicas y organizativas razonables para proteger tus Datos Personales contra acceso no autorizado, alteración, divulgación o destrucción.
-
-### 11.1 Medidas técnicas
-
-- **Cifrado en tránsito**: toda comunicación entre la app y nuestro backend usa **HTTPS con TLS 1.2 o superior**.
-- **Hash de contraseñas**: las contraseñas se almacenan usando algoritmos de hashing criptográfico modernos. **Nunca** guardamos contraseñas en texto plano.
-- **Autenticación con tokens**: usamos JWT de duración corta combinados con refresh tokens rotables, lo que limita la ventana de exposición ante un eventual robo de credenciales.
-- **OTP de un solo uso**: el código de recuperación de contraseña es válido por máximo 15 minutos y solo se puede usar una vez.
-- **Protección de datos en reposo**: los datos almacenados en nuestra base de datos y servidores están protegidos por los controles de acceso físico y lógico del proveedor de hosting (Contabo GmbH), conforme a los estándares aplicables en la industria de servicios de infraestructura.
-- **Respaldos**: los respaldos periódicos se realizan de forma controlada y se conservan por el período mínimo necesario para garantizar la continuidad del servicio.
-
-### 11.2 Medidas organizativas
-
-- El acceso al backend y a la base de datos está restringido al equipo de desarrollo de Qipo (actualmente, una sola persona: el responsable del tratamiento).
-- Cualquier nueva persona que se sume al equipo firma un compromiso de confidencialidad antes de tener acceso a datos.
-- Las credenciales de acceso a sistemas se rotan periódicamente.
-
-### 11.3 Limitaciones
-
-Te informamos con honestidad: **ningún sistema es 100% seguro**. A pesar de aplicar medidas razonables, no podemos garantizar de manera absoluta que tus datos estén libres de cualquier riesgo.
-
-### 11.4 En caso de incidente de seguridad
-
-Si detectamos una brecha de seguridad que afecte tus Datos Personales:
-
-- **Te notificamos por email** a la dirección registrada en tu cuenta, en el menor tiempo posible y en un plazo máximo razonable según la naturaleza del incidente.
-- **Notificamos a la APDP** dentro de los plazos y en la forma que exige la Ley 29733 y su Reglamento.
-- Tomamos las medidas necesarias para contener el incidente y prevenir su recurrencia.
+Vencidos los plazos indicados, los Datos Personales serán suprimidos o anonimizados de manera irreversible.
 
 ---
 
-## 12. Privacidad de menores de edad
+## 11. Medidas de seguridad
 
-Qipo está dirigido **exclusivamente a personas mayores de 18 años**. La aplicación no está diseñada ni destinada al uso por menores, y no recolectamos ni tratamos conscientemente datos de personas menores de 18 años.
+El Responsable adopta medidas técnicas y organizativas razonables para preservar la confidencialidad, integridad y disponibilidad de los Datos Personales del Usuario, así como para prevenir su acceso no autorizado, alteración, divulgación o destrucción.
 
-Si descubrimos que se ha creado una cuenta utilizando datos de un menor de 18 años, procederemos a eliminar la cuenta y todos los datos asociados sin demora.
+### 11.1. Medidas técnicas
 
-Si sos padre, madre o tutor legal y considerás que un menor a tu cargo creó una cuenta en Qipo, escribinos a [hola.qipo.app@gmail.com](mailto:hola.qipo.app@gmail.com) y la eliminaremos.
+a) Las comunicaciones entre la Aplicación y la infraestructura del Responsable se realizan mediante el protocolo HTTPS sobre TLS, en su versión 1.2 o superior.
+
+b) Las contraseñas son almacenadas mediante algoritmo de hashing criptográfico (bcrypt). En ningún caso son almacenadas en texto plano.
+
+c) La autenticación se realiza mediante tokens de duración limitada (JSON Web Tokens), conjuntamente con tokens de actualización rotativos.
+
+d) Los tokens de recuperación de contraseña tienen una vigencia máxima de quince (15) minutos y son de un solo uso.
+
+e) Los Datos Personales en reposo se encuentran protegidos por los controles de acceso físico y lógico provistos por el Encargado de hosting, conforme a los estándares aplicables a la industria de servicios de infraestructura.
+
+f) Los respaldos de la base de datos se realizan periódicamente y son conservados por el plazo mínimo necesario para garantizar la continuidad del servicio.
+
+### 11.2. Medidas organizativas
+
+a) El acceso al backend y a la base de datos se encuentra restringido al equipo de desarrollo del Responsable.
+
+b) Toda persona que se incorpore al equipo de desarrollo deberá suscribir un compromiso de confidencialidad con anterioridad al otorgamiento de cualquier acceso a Datos Personales.
+
+c) Las credenciales de acceso a los sistemas son rotadas con regularidad.
+
+### 11.3. Limitaciones
+
+El Responsable advierte al Titular que ningún sistema de tratamiento de información se encuentra exento de riesgos. Sin perjuicio de la aplicación de las medidas razonables descritas en la presente Cláusula, el Responsable no garantiza de manera absoluta la inalterabilidad o inaccesibilidad de los Datos Personales frente a la totalidad de los riesgos posibles.
+
+### 11.4. Vulneraciones de seguridad
+
+En el supuesto de que el Responsable tomare conocimiento de una vulneración de seguridad que afectare Datos Personales del Titular, procederá a:
+
+a) Comunicar al Titular tal circunstancia mediante correo electrónico dirigido a la dirección registrada en la Cuenta, en el menor plazo posible y conforme a la naturaleza del incidente.
+
+b) Notificar a la APDP, dentro de los plazos y conforme a las disposiciones establecidas en la Ley y el Reglamento.
+
+c) Adoptar las medidas necesarias para contener el incidente y prevenir su reiteración.
 
 ---
 
-## 13. Cambios a esta política
+## 12. Tratamiento de Datos Personales de menores de edad
 
-Podemos actualizar esta Política de Privacidad cuando lo consideremos necesario, por ejemplo:
+La Aplicación se encuentra dirigida exclusivamente a personas mayores de dieciocho (18) años. El Responsable no recolecta ni trata, de manera consciente, Datos Personales de personas menores de edad.
 
-- Cuando agreguemos nuevas funcionalidades que impliquen tratar datos de manera diferente.
-- Cuando incorporemos o reemplacemos proveedores de servicio.
-- Cuando cambien las normas legales aplicables.
-- Para corregir errores u oscuridades en la redacción.
+En el supuesto de que el Responsable tomare conocimiento de la creación de una Cuenta mediante datos correspondientes a una persona menor de edad, procederá a la eliminación inmediata de dicha Cuenta y de los Datos Personales asociados.
 
-### 13.1 Tipos de cambios
-
-- **Cambios materiales** (versión mayor, ej: 1.0 → 2.0): cambios que alteran las finalidades de tratamiento, agregan nuevos terceros que reciben datos, o introducen nuevas categorías de datos recolectados.
-- **Cambios no materiales** (versión menor, ej: 1.0 → 1.1): correcciones de redacción, aclaraciones, actualización de URLs o referencias legales sin alterar el sentido.
-
-### 13.2 Cómo te notificamos
-
-- **Cambios materiales**: te avisamos con **al menos 15 días de anticipación** antes de que entren en vigencia, mediante:
-  - Notificación in-app la próxima vez que abras Qipo.
-  - Email a la dirección registrada en tu cuenta.
-  - Publicación de la nueva versión en esta misma URL con la fecha de vigencia indicada.
-
-  Si no estás de acuerdo con los cambios, podés eliminar tu cuenta antes de que entren en vigencia.
-
-- **Cambios no materiales**: se publican directamente con nuevo número de versión en el [CHANGELOG público del repositorio](https://github.com/angel452/qipo-legal/blob/main/CHANGELOG.md).
-
-### 13.3 Versión vigente
-
-La versión actualmente vigente es la indicada al inicio de este documento. Las versiones anteriores quedan archivadas en el historial de Git del repositorio público.
+Los padres, madres o representantes legales que tomaren conocimiento de la existencia de una Cuenta creada por un menor a su cargo podrán solicitar la eliminación correspondiente mediante comunicación dirigida a la dirección de correo electrónico consignada en la Cláusula 15.
 
 ---
 
-## 14. Reclamos ante la APDP
+## 13. Modificaciones a la Política
 
-Si considerás que no respondimos adecuadamente a una solicitud relativa a tus derechos, o que estamos tratando tus datos de manera contraria a la Ley 29733, podés presentar un reclamo ante la **Autoridad Nacional de Protección de Datos Personales (APDP)**, dependiente del Ministerio de Justicia y Derechos Humanos del Perú.
+El Responsable se reserva el derecho de modificar la presente Política cuando ello resultare necesario, y en particular en los siguientes supuestos:
 
-| Datos de la APDP |  |
+a) Incorporación de nuevas funcionalidades que impliquen modificaciones en el tratamiento de los Datos Personales;
+
+b) Incorporación o sustitución de Encargados del Tratamiento;
+
+c) Modificación de la normativa aplicable;
+
+d) Corrección de errores u oscuridades de redacción.
+
+### 13.1. Tipos de modificaciones
+
+Las modificaciones se clasifican en:
+
+a) **Modificaciones materiales:** aquellas que alteran las finalidades del tratamiento, incorporan nuevos Encargados o introducen nuevas categorías de Datos Personales objeto de tratamiento. Se identifican mediante incremento de la versión mayor del documento.
+
+b) **Modificaciones no materiales:** correcciones de redacción, aclaraciones o actualizaciones de referencias normativas que no alteran el sentido del documento. Se identifican mediante incremento de la versión menor.
+
+### 13.2. Comunicación de las modificaciones
+
+Las modificaciones materiales serán comunicadas al Usuario con una anticipación no menor a quince (15) días respecto de la fecha de su entrada en vigencia, mediante:
+
+a) Notificación dentro de la Aplicación al momento de su próximo uso;
+
+b) Comunicación dirigida a la dirección de correo electrónico registrada en la Cuenta;
+
+c) Publicación de la nueva versión en la dirección oficial de la presente Política, con indicación expresa de la fecha de vigencia.
+
+En caso de no estar conforme con las modificaciones, el Usuario podrá proceder a la eliminación de su Cuenta con anterioridad a la entrada en vigencia de las mismas.
+
+Las modificaciones no materiales serán publicadas mediante la actualización del número de versión y el correspondiente registro en el historial público del documento.
+
+### 13.3. Versión vigente
+
+La versión actualmente vigente es aquella consignada al inicio del presente documento. Las versiones anteriores se conservan en el historial público del repositorio.
+
+---
+
+## 14. Reclamos ante la Autoridad Nacional de Protección de Datos Personales
+
+El Titular que considerare que sus solicitudes no han sido adecuadamente atendidas por el Responsable, o que el tratamiento de sus Datos Personales se realiza en contravención de la Ley, podrá interponer reclamo ante la APDP.
+
+| Concepto |  |
 |---|---|
-| **Nombre completo** | Autoridad Nacional de Protección de Datos Personales |
-| **Organismo del que depende** | Ministerio de Justicia y Derechos Humanos del Perú |
-| **Sitio web oficial** | [https://www.gob.pe/anpd](https://www.gob.pe/anpd) |
-| **Plataforma de reclamos** | Mesa de partes virtual del MINJUSDH |
+| Denominación | Autoridad Nacional de Protección de Datos Personales. |
+| Adscripción | Ministerio de Justicia y Derechos Humanos del Perú. |
+| Sitio web oficial | [https://www.gob.pe/anpd](https://www.gob.pe/anpd) |
+| Vía de presentación de reclamos | Mesa de partes virtual del Ministerio de Justicia y Derechos Humanos. |
 
-Te recomendamos, antes de escalar a la APDP, **escribirnos primero a nosotros** a [hola.qipo.app@gmail.com](mailto:hola.qipo.app@gmail.com) para que podamos resolver tu inquietud directamente. La mayoría de los casos se resuelven sin necesidad de acudir a la autoridad.
-
----
-
-## 15. Contacto
-
-Para cualquier consulta, solicitud o reclamo relacionado con esta Política de Privacidad o con el tratamiento de tus Datos Personales, podés contactarnos a:
-
-- **Email**: [hola.qipo.app@gmail.com](mailto:hola.qipo.app@gmail.com)
-- **Idioma de atención**: español
-- **Plazo de primera respuesta**: hasta 5 días hábiles desde la recepción de tu mensaje
-- **Plazo de resolución**: según los plazos establecidos en la Ley 29733 para cada derecho (ver [sección 8](#8-tus-derechos-sobre-tus-datos))
+Sin perjuicio del derecho del Titular a recurrir directamente ante la APDP, se sugiere al Titular dirigirse en primera instancia al Responsable, a efectos de procurar una solución directa de la controversia.
 
 ---
 
-## 16. Información del responsable del tratamiento
+## 15. Domicilio y comunicaciones
 
-Conforme al artículo 18 de la Ley 29733, te identificamos al responsable del tratamiento de tus Datos Personales:
+Para el ejercicio de los derechos descritos en la presente Política, así como para cualquier consulta o reclamo, el Titular podrá dirigirse al Responsable mediante los siguientes datos de contacto:
 
-| Dato |  |
+| Concepto |  |
 |---|---|
-| **Nombre legal** | Angel Josue Loayza Huarachi |
-| **Naturaleza** | Persona natural |
-| **País** | Perú |
-| **Email de contacto** | [hola.qipo.app@gmail.com](mailto:hola.qipo.app@gmail.com) |
-| **Aplicación operada** | Qipo (distribuida en Google Play Store) |
+| Correo electrónico | [hola.qipo.app@gmail.com](mailto:hola.qipo.app@gmail.com) |
+| Idioma de atención | Español. |
+| Plazo de primera respuesta | Cinco (5) días hábiles contados desde la recepción de la comunicación. |
+| Plazo de resolución | Conforme a los plazos legales aplicables a cada derecho, según lo previsto en la Cláusula 8. |
 
-El domicilio postal completo del responsable se encuentra registrado en Google Play Console y es accesible para autoridades competentes mediante requerimiento legal. En caso de operar Qipo bajo plan pago en el futuro, el domicilio será publicado conforme a las reglas de transparencia exigidas por la tienda de aplicaciones.
+---
+
+## 16. Identificación del Responsable
+
+A efectos de lo dispuesto en el artículo 18 de la Ley, se identifica al Responsable del Tratamiento de los Datos Personales:
+
+| Concepto |  |
+|---|---|
+| Nombre legal | Angel Josue Loayza Huarachi. |
+| Naturaleza | Persona natural. |
+| País de domicilio | República del Perú. |
+| Correo electrónico de contacto | [hola.qipo.app@gmail.com](mailto:hola.qipo.app@gmail.com) |
+| Aplicación operada | Qipo, distribuida a través de Google Play Store. |
+
+El domicilio postal del Responsable se encuentra registrado en Google Play Console y se encuentra disponible para autoridades competentes mediante requerimiento legal. En caso de que la Aplicación opere bajo modalidad de pago, el domicilio será publicado conforme a las disposiciones de transparencia exigidas por la tienda de aplicaciones correspondiente.
 
 ---
 
 ## 17. Vigencia y versión
 
-| Versión | Fecha de vigencia | Resumen de cambios |
+| Versión | Fecha de vigencia | Resumen |
 |---|---|---|
-| 1.0-draft | (pendiente de publicación) | Versión inicial — borrador en construcción, no vigente |
+| 1.0-borrador | Pendiente de publicación. | Versión inicial. Documento en construcción, no vigente. |
 
-El historial completo y detallado de cambios se mantiene en el [CHANGELOG público del repositorio](https://github.com/angel452/qipo-legal/blob/main/CHANGELOG.md).
+El historial completo de modificaciones se conserva en el repositorio público en el que se aloja la presente Política.
 
 ---
 
-[← Volver a documentos legales](../)
+[Volver a documentos legales](../)
