@@ -151,14 +151,15 @@ El proveedor de inteligencia artificial puede retener temporalmente las consulta
 
 Cada uno trata tus datos **por encargo nuestro**, según nuestras instrucciones y bajo acuerdos contractuales que les obligan a estándares equivalentes a los nuestros.
 
-| Proveedor | País | Datos compartidos | Finalidad |
+| Proveedor | País / Sede | Datos compartidos | Finalidad |
 |---|---|---|---|
+| **Contabo GmbH** | Alemania (sede) — infraestructura en Estados Unidos (región US-East) | Todos los datos almacenados por Qipo (cuenta, datos financieros, logs) | Hosting del backend y la base de datos |
 | **Groq Inc.** | Estados Unidos | Texto de tu comando por voz + nombres de tus categorías y medios de pago | Generar sugerencia de transacción estructurada (función de voz) |
 | **Google LLC — Firebase Cloud Messaging** | Estados Unidos | Token de notificaciones push, contenido del aviso a entregar | Entregar notificaciones a tu dispositivo |
 | **Google LLC — Google Play Billing** *(activo cuando suscribas Plan Pro)* | Estados Unidos | Identificador anónimo de compra | Procesar pago de suscripción |
 | **RevenueCat Inc.** *(activo cuando suscribas Plan Pro)* | Estados Unidos | Identificador anónimo de suscripción, estado de la suscripción | Gestionar el ciclo de vida de la suscripción cross-platform |
 
-Podés consultar las políticas de privacidad de cada proveedor en sus respectivos sitios web ([Groq](https://groq.com/privacy-policy/), [Google](https://policies.google.com/privacy), [RevenueCat](https://www.revenuecat.com/privacy/)).
+Podés consultar las políticas de privacidad de cada proveedor en sus respectivos sitios web ([Contabo](https://contabo.com/en/legal/privacy-policy/), [Groq](https://groq.com/privacy-policy/), [Google](https://policies.google.com/privacy), [RevenueCat](https://www.revenuecat.com/privacy/)).
 
 Si en el futuro sumamos un nuevo proveedor que reciba tus datos, **actualizamos esta política antes de activarlo** y bumpeamos la versión del documento.
 
@@ -177,7 +178,12 @@ Si en el futuro Qipo es vendido, fusionado o transferido a otra entidad, tus dat
 
 ## 7. Transferencias internacionales de datos
 
-Tus datos se almacenan principalmente en **Perú** (servidores de hosting del backend de Qipo). Sin embargo, algunos de los proveedores listados en la [sección 6.1](#61-proveedores-de-servicio-encargados-del-tratamiento) operan desde **Estados Unidos**, lo que implica una transferencia internacional de Datos Personales.
+Tus Datos Personales se almacenan y procesan **fuera del territorio peruano**. Específicamente:
+
+- El **almacenamiento principal** ocurre en servidores ubicados en **Estados Unidos** (región US-East), operados por nuestro proveedor de hosting Contabo GmbH (sede en Alemania).
+- Los demás proveedores listados en la [sección 6.1](#61-proveedores-de-servicio-encargados-del-tratamiento) (Groq, Google, RevenueCat) también operan desde **Estados Unidos**.
+
+Esto implica una **transferencia internacional de Datos Personales** desde Perú hacia Estados Unidos y, en el caso de Contabo, una relación contractual con un encargado domiciliado en Alemania (país que sí cuenta con nivel adecuado de protección reconocido por la Unión Europea).
 
 Conforme al artículo 15 de la Ley 29733 y al Capítulo III del Título II de su Reglamento:
 
@@ -291,8 +297,8 @@ Conservamos tus Datos Personales solo el tiempo necesario para las finalidades p
 |---|---|
 | Datos de cuenta y datos financieros personales | Mientras tu cuenta esté activa, más 30 días de gracia tras eliminación |
 | Token FCM de notificaciones push | Hasta que desactives notificaciones, elimines la app o eliminés tu cuenta |
-| Logs técnicos (errores, performance) | Hasta 90 días desde su generación |
-| Logs de autenticación (login, cambios de contraseña) | Hasta 12 meses desde su generación |
+| Logs técnicos (errores, performance) | Conservados únicamente por el tiempo necesario para diagnóstico operativo, conforme a nuestra política operativa |
+| Logs de autenticación (login, cambios de contraseña) | Conservados únicamente por el tiempo necesario para auditoría de seguridad y prevención de fraude |
 | Identificadores de pago (Plan Pro) | Plazo legal aplicable según normativa tributaria peruana (típicamente hasta 5 años) |
 | Tokens de recuperación de contraseña (OTP) | Máximo 15 minutos desde su generación |
 | Tokens de sesión (refresh tokens) | Hasta su expiración natural o revocación por logout / cambio de contraseña |
@@ -311,8 +317,8 @@ Aplicamos medidas técnicas y organizativas razonables para proteger tus Datos P
 - **Hash de contraseñas**: las contraseñas se almacenan usando algoritmos de hashing criptográfico modernos. **Nunca** guardamos contraseñas en texto plano.
 - **Autenticación con tokens**: usamos JWT de duración corta combinados con refresh tokens rotables, lo que limita la ventana de exposición ante un eventual robo de credenciales.
 - **OTP de un solo uso**: el código de recuperación de contraseña es válido por máximo 15 minutos y solo se puede usar una vez.
-- **Cifrado en reposo**: los datos almacenados en nuestra base de datos están protegidos por las medidas de cifrado provistas por el proveedor de hosting.
-- **Backups encriptados**: los respaldos periódicos están cifrados y se conservan por el período mínimo necesario.
+- **Protección de datos en reposo**: los datos almacenados en nuestra base de datos y servidores están protegidos por los controles de acceso físico y lógico del proveedor de hosting (Contabo GmbH), conforme a los estándares aplicables en la industria de servicios de infraestructura.
+- **Respaldos**: los respaldos periódicos se realizan de forma controlada y se conservan por el período mínimo necesario para garantizar la continuidad del servicio.
 
 ### 11.2 Medidas organizativas
 
