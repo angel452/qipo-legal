@@ -4,11 +4,9 @@ title: Política de Privacidad — Qipo
 
 # Política de Privacidad de Qipo
 
-> Documento en construcción. La presente Política se encuentra en proceso de revisión y no se encuentra vigente. La versión definitiva será publicada con anterioridad al lanzamiento oficial de la Aplicación en Google Play Store.
-
-**Versión:** 1.0-borrador
+**Versión:** 1.0
 **Fecha de redacción:** 3 de mayo de 2026
-**Vigencia:** pendiente de publicación oficial.
+**Fecha de entrada en vigencia:** 4 de mayo de 2026
 
 ---
 
@@ -404,7 +402,7 @@ El domicilio postal del Responsable se encuentra registrado en Google Play Conso
 
 | Versión | Fecha de vigencia | Resumen |
 |---|---|---|
-| 1.0-borrador | Pendiente de publicación. | Versión inicial. Documento en construcción, no vigente. |
+| 1.0 | 4 de mayo de 2026 | Versión inicial publicada con anterioridad al lanzamiento oficial de la Aplicación en Google Play Store. |
 
 El historial completo de modificaciones se conserva en el repositorio público en el que se aloja la presente Política.
 

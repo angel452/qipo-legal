@@ -10,25 +10,6 @@ Cada documento legal mantiene su propia versión, indicada en la cabecera del ar
 
 ## [Sin publicar]
 
-### Política de Privacidad — v1.0 (lista para publicación tras implementación de Eliminar cuenta)
-
-- Borrador completo — 17 secciones redactadas en registro jurídico formal (tratamiento de "Usted", terminología técnico-legal, sin emojis ni énfasis dramático).
-- Estructura terminológica unificada: Responsable, Encargado, Titular, Usuario, Aplicación, Cuenta, Datos Personales, Tratamiento.
-- Eliminada la sección 3.3 ("Lo que NO recolectamos") por considerar que crea obligación negativa explícita innecesaria desde la perspectiva jurídica peruana, donde el principio rector es declarar lo que se trata.
-- 8 validaciones técnicas y legales cerradas:
-  - Hosting confirmado: Contabo GmbH (Alemania) con infraestructura en EE. UU. región US-East. Política refleja almacenamiento principal en EE. UU., Contabo identificado como Encargado del Tratamiento en Cláusula 6.1, Cláusula 7 reescrita.
-  - Acuerdos de Procesamiento de Datos disponibles para los cuatro Encargados listados (Groq, Google, RevenueCat, Contabo).
-  - URLs de políticas de terceros verificadas y vigentes.
-  - Base legal "interés legítimo" mantenida para prevención de fraude y mantenimiento operativo (decisión ratificada).
-  - Período de gracia para eliminación de Cuenta: treinta (30) días antes de la supresión irreversible.
-  - Conservación de registros técnicos descrita en términos operativos. Tarea técnica pendiente para configurar rotación de logs en docker-compose.prod.yml.
-  - Protección de Datos Personales en reposo descrita conforme a los controles de acceso del Encargado de hosting. Tarea técnica pendiente para configurar disk encryption (LUKS) en VPS.
-  - Algoritmo de hashing de contraseñas confirmado: bcrypt con 10 salt rounds.
-- Pendiente: implementación de la funcionalidad "Eliminar Cuenta" desde la Aplicación (requisito de Google Play Store).
-- Pendiente: publicación oficial como v1.0 (no borrador) una vez implementada la funcionalidad de eliminación de Cuenta.
-
----
-
 ### Términos de Servicio — v1.0 (en redacción)
 
 - Borrador inicial completo — 19 cláusulas redactadas en registro jurídico formal.
@@ -46,8 +27,25 @@ Cada documento legal mantiene su propia versión, indicada en la cabecera del ar
 
 ---
 
+## [Política de Privacidad — v1.0] — 4 de mayo de 2026
+
+### Publicación inicial
+
+- 17 secciones redactadas en registro jurídico formal (tratamiento de "Usted", terminología técnico-legal, sin emojis ni énfasis dramático).
+- Estructura terminológica unificada: Responsable, Encargado, Titular, Usuario, Aplicación, Cuenta, Datos Personales, Tratamiento.
+- Conformidad con la Ley N.° 29733 — Ley de Protección de Datos Personales del Perú y su Reglamento (Decreto Supremo N.° 003-2013-JUS).
+- Identificación nominal de los cuatro Encargados del Tratamiento: Contabo GmbH (hosting), Groq Inc. (procesamiento de lenguaje natural), Google Cloud Platform (notificaciones push) y RevenueCat (gestión de suscripciones).
+- Hosting confirmado: Contabo GmbH (Alemania) con infraestructura en EE. UU. región US-East. La Cláusula 7 describe la transferencia internacional de Datos Personales conforme al artículo 15 de la Ley.
+- Algoritmo de hashing de contraseñas confirmado: bcrypt con 10 salt rounds.
+- Período de gracia para eliminación de Cuenta: treinta (30) días antes de la supresión irreversible.
+- Funcionalidad "Eliminar Cuenta" desde la Aplicación implementada conforme al requisito de Google Play Store: accesible desde "Perfil — Configuración — Eliminar cuenta", con confirmación expresa y posibilidad de restauración dentro del período de gracia.
+- Eliminada la sección "Lo que NO recolectamos" por considerar que crea obligación negativa explícita innecesaria desde la perspectiva jurídica peruana, donde el principio rector es declarar lo que se trata.
+- Derechos ARCO+P (Acceso, Rectificación, Cancelación, Oposición y Portabilidad) y derecho de Revocación del consentimiento explícitamente descritos con plazos legales aplicables.
+- Cinco categorías de Datos Personales declaradas conforme a la taxonomía de Google Play Data Safety: Personal Info, Financial Info ("other"), App Activity, Device IDs y App Performance.
+
+---
+
 ## Próximas publicaciones
 
-- Política de Privacidad v1.0 — antes del lanzamiento de Qipo en Google Play Store, una vez implementada la funcionalidad de eliminación de Cuenta desde la Aplicación.
 - Términos de Servicio v1.0 — antes del lanzamiento de Qipo en Google Play Store.
 - Política de Devoluciones v1.0 — antes de activar el Plan Pro (previsto para el primer trimestre de 2027).
